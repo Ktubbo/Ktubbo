@@ -30,7 +30,8 @@ so I am tutoring high school math and physics for free.
         - Create tests that cover at least 65% of the code.
         - Use at least two different design patterns.
         - Use the Vaadin library to create a view layer for your application.
-        The allotted time for this project was 4 weeks. Every point in this specification has been met on time. Firstly, I needed to create Entity Relationship Diagram.
+        
+      The allotted time for this project was 4 weeks. Every point in this specification has been met on time. Firstly, I needed to create Entity Relationship Diagram.
         Secondly I made classes that are responsible for entities, DTOs, then mappers, repositories, database services, excepions and controllers. Then I started to make
         views in Vaadin which was quite challenging. It took me the longest time to write unit tests. Last thing was to find some data source on RapidApi and implement
         it in my application.

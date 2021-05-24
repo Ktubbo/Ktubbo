@@ -34,6 +34,7 @@ so I am tutoring high school math and physics for free.
         Secondly I made classes that are responsible for entities, DTOs, then mappers, repositories, database services, excepions and controllers. Then I started to make
         views in Vaadin which was quite challenging. It took me the longest time to write unit tests. Last thing was to find some data source on RapidApi and implement
         it in my application.
+        -> https://github.com/Ktubbo/Clinic_app
   - I changed my daily habbits to gain development knowledge. Every day I listen to podcast DevTalk by Maciej Aniserowicz in my car, instead of listen to music. I read
   every day reddit.com/r/java/ for tech news in Java, instead of scrolling socialmedia platforms.
   

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ktubbo. My name is Hubert and someday I want to be a Java Developer.
-- 👀 I’m interested in java development and software architecture. Also I'm intrested in sailing, playing guitar and 3D modeling/3D printing. I love sharing knowledge, 
+- 👀 I’m interested in java development and software architecture. Also I'm interested in sailing, playing guitar and 3D modeling/3D printing. I love sharing knowledge, 
 so I am tutoring high school math and physics for free.
 - 🌱 Things I did to get closer to becoming a Java Developer:
     - I finished my bootcamp "Java Developer Plus", which took me a lot of effort to finish it. It took about 720 hours over 9 months.

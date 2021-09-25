@@ -36,15 +36,23 @@ so I am tutoring high school math and physics for free.
         views in Vaadin which was quite challenging. It took me the longest time to write unit tests. Last thing was to find some data source on RapidApi and implement
         it in my application.
         -> https://github.com/Ktubbo/Clinic_app
+        
+  Updated (25.09.21)
+        
   - I changed my daily habbits to gain development knowledge. Every day I listen to podcast DevTalk by Maciej Aniserowicz in my car, instead of listen to music. I read
   every day reddit.com/r/java/ for tech news in Java, instead of scrolling socialmedia platforms.
   
+  - Recently I bought a domain www.rusinek.net, where I will be bloging about my projects and mistakes.
+  
+  - I develop new cross-platform project, messenger bot. Using Selenium Web Driver, Spring Web, Spring Boot and Raspberry Pi. Which sends me infomration on facebook messenger about GPU prices.
+  
   - I have plans to develop my Java skills in the near future:
-    - I want to start blogging. I am aware that there is a lot of development blogs, but writing your own blog involves putting your thoughts into words, forces you to 
+    - [x] I want to start blogging. I am aware that there is a lot of development blogs, but writing your own blog involves putting your thoughts into words, forces you to 
     write down your mistakes, gives you the opportunity to put your problems into perspective, and helps develop english skills.
-    - I want to develop application using microservices architecture.
-    - I want to develop facebook messenger bot (using Heroku and Selenium WebDriver), to inform me and my friends about computer equipment sales.
-    - I want to contribute in some open source project.
+    - [ ] I want to develop application using microservices architecture.
+    - [x] I want to develop facebook messenger bot (using Heroku and Selenium WebDriver), to inform me and my friends about computer equipment sales.
+    - [ ] I want to contribute in some open source project.
     
 - 📫 My linkedin: www.linkedin.com/in/hubert-rusinek
+- :scroll: My blog: www.rusinek.net
 
